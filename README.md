@@ -20,9 +20,9 @@
 
 🎓 B.Tech in Computer Science & Engineering (AI & ML)
 
-💻 Focused on Java Full Stack Development
+💻 Focused on Java Full Stack Development with AI implimentation
 
-🌱 Currently improving Java, DSA, Spring Boot & System Design
+🌱 Currently improving Java, DSA, Spring Boot & System Design and AIML concepts 
 
 🧠 Exploring Generative AI and Agentic AI
 
